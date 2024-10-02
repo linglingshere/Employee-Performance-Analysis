@@ -1,6 +1,6 @@
 SELECT * FROM hrdataset_lintang
 
--- Case Study --> Business Question
+-- Case Study --> Business Questions
 -- 1. Berapa rata-rata salary dari setiap karyawan per department?
 -- 2. Berapa banyak karyawan yang sudah bekerja lebih dari 8 tahun?
 -- 3. Ada korelasi antara performance score karyawan dengan level kepuasan?
